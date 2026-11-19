@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+data/
+*.log
+.env
+.env.local
+.DS_Store
+.cloud-attachments/
+next-env.d.ts
+tsconfig.tsbuildinfo
